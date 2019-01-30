@@ -8,7 +8,7 @@ public interface MyTest01 {
 	
 	public void method3();
 	
-	
+	public void method5();
 
 
 }
